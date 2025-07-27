@@ -1,6 +1,0 @@
-E:\Grocery Shop Management\Grocery Shop Management\bin\Debug\Grocery Shop Management.exe.config
-E:\Grocery Shop Management\Grocery Shop Management\obj\Debug\Grocery Shop Management.csprojResolveAssemblyReference.cache
-E:\Grocery Shop Management\Grocery Shop Management\bin\Debug\Grocery Shop Management.exe
-E:\Grocery Shop Management\Grocery Shop Management\bin\Debug\Grocery Shop Management.pdb
-E:\Grocery Shop Management\Grocery Shop Management\obj\Debug\Grocery Shop Management.exe
-E:\Grocery Shop Management\Grocery Shop Management\obj\Debug\Grocery Shop Management.pdb
