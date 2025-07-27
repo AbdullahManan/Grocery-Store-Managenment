@@ -1,0 +1,36 @@
+# Build output folders
+bin/
+obj/
+
+# Compiled binaries
+*.exe
+*.dll
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Logs
+*.log
+
+# NuGet packages (optional)
+packages/
+*.nupkg
+
+# Cache and database metadata
+*.cache
+*.dbmdl
+
+# Test results
+TestResults/
+*.pdb
+*.mdb
+
+# IDE-specific folders (optional)
+.idea/
+.vscode/
+
+# OS-generated files
+*.DS_Store
+Thumbs.db
